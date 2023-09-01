@@ -26,7 +26,7 @@ variable "sg_ports" {
   description = "List of ports"
   default     = [443, 80]
 }
-variable "vpn_ip" {
+variable "all_ip" {
   type        = string
   description = "List of ports"
   default     = "0.0.0.0/0"
