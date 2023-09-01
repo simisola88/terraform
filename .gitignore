@@ -1,2 +1,4 @@
 .terraform*
 bincom
+ec2.tf
+variables.tf
